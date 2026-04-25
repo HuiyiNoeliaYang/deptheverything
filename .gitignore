@@ -1,0 +1,20 @@
+# dataset
+dataset/puzzle_data/
+
+# checkpoints
+checkpoints/
+
+# results
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# env
+.env
+*.log
